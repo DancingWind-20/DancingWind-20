@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="./dancing-wind-avatar.png" width="150" alt="Dancing Wind avatar" />
+<img src="./dancing-wind-avatar.png" width="145" alt="Dancing Wind avatar" />
 
-# D A N C I N G  W I N D
+# D A N C I N G&nbsp; W I N D
 
 ### BEN SCHULZ · AI & FULL-STACK DEVELOPER
 
@@ -36,6 +36,8 @@
 I'm interested in building software that makes complicated things easier. I enjoy learning how the pieces fit together — from a clean user interface to backend logic, APIs, data, and AI-powered features.
 
 I believe good engineering is not about using the biggest number of tools. It's about understanding a problem and building something useful.
+
+> **My rule:** less hype, more building.
 
 ## `02 — MY CURRENT TOOLKIT`
 
