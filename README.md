@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dancing-wind-banner.png" width="100%" alt="Dancing Wind — Ben Schulz" />
+<img src="./DancingWind Cyberpunk GitHub Profile.png" width="100%" alt="Dancing Wind — Ben Schulz" />
 
 <br/>
 
